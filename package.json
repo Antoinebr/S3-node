@@ -1,0 +1,19 @@
+{
+  "name": "S3 node",
+  "description": "AWS uploader in node",
+  "version": "0.1.0",
+  "main": "server",
+  "engines": {
+    "node": ">=0.10.22"
+  },
+  "dependencies": {
+    "async": "^1.4.2",
+    "aws-sdk": "^2.141.0",
+    "connect-multiparty": "^2.1.0",
+    "express": "^4.10.6"
+  },
+  "author": {
+    "name": "",
+    "email": ""
+  }
+}
